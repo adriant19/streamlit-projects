@@ -2,3 +2,4 @@
 secrets.toml
 .ipynb_checkpoints
 __pycache__
+.streamlit_env
